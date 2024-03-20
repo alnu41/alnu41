@@ -1,7 +1,8 @@
 ![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/9292.jpg)
 <h1 align="center">Hi 👋, I'm Aneesh Antony Neelamkavil</h1>
 <h3 align="center">A passionate software developer and product management enthusiast</h3>
-<img align = "right" alt="Coding" width="400" src="[https://www.process.st/wp-content/themes/koombea/images/ai/ai-g.gif](https://i.gifer.com/JXA0.mp4)">
+<img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnu41&label=Profile%20views&color=0e75b6&style=flat" alt="alnu41" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alnu41" alt="alnu41" /></a> </p>
